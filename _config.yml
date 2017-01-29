@@ -1,12 +1,12 @@
 name : Foundation5/github pages/Jykill starter
-brand : My Project
-description : This is the description of my project
+brand : Laboratory for Cellular Biophysics
+description : Lab webpage
 keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-6-starter/
-email : daigo@daigofujiwara.com
+url : http://daigofuji.github.io/labpage1
+email : arpitau@umd.edu
 twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
+github : arpitalab
+author : Arpita Upadhyaya
 year : 2016
 markdown : kramdown
 exclude :
